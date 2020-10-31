@@ -1,0 +1,14 @@
+.header{
+    grid-area: hd;
+    background: #0077C8;
+}
+
+.headerContent{
+    display: flex;
+    background: #001529;
+}
+.logReg{
+    margin-left: auto;
+    margin-right: 2em;
+    margin-top: 0.5em;
+}
