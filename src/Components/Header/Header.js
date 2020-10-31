@@ -21,12 +21,7 @@ class Header extends React.Component {
                 <Menu onClick={this.handleClick} selectedKeys={[current]} mode="horizontal" theme={"dark"}>
                     <Menu.Item key="mail">
                         <NavLink to='/task1'>
-                            11 Задание
-                        </NavLink>
-                    </Menu.Item>
-                    <Menu.Item key="app">
-                        <NavLink to='/task2'>
-                            12 Задание
+                            13 Задание
                         </NavLink>
                     </Menu.Item>
 
