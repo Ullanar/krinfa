@@ -10,6 +10,7 @@ function ContentLayer() {
 
         <div style={{padding: 10}}>
 
+            <Route path exact='/' render={() => <FirstTask/>}/>
             <Route path='/task1' render={() => <FirstTask/>}/>
             <Route path='/task2' render={() => <SecondTask/>}/>
 
